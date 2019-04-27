@@ -1,6 +1,6 @@
 package ar.edu.unlam.pb2.Disco;
 
-prueba modificación
+//prueba modificación
 
 import static org.junit.Assert.*;
 
